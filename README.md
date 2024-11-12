@@ -20,3 +20,6 @@ pip install -r requirements.txt
 
 git clone https://github.com/yourusername/DPN2N.git
 cd DPN2N
+
+
+## Repository Structure
