@@ -1,0 +1,1 @@
+The TensorBoard log files and checkpoints are saved here.
